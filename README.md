@@ -6,7 +6,7 @@ A visually engaging and intelligent **Streamlit web app** that recommends songs 
 
 ## 🚀 Live Demo
 
-👉 [Try it Now](https://songrecommendationapp-fuseg9fcnbfbzspig2y9da.streamlit.app/)
+Link-  https://song-recommendation-app-43slcq4uzjyumbxyzrdole.streamlit.app/
 
 
 ---
@@ -30,8 +30,7 @@ A visually engaging and intelligent **Streamlit web app** that recommends songs 
 
 - 🎵 Recommend similar songs using deep learning (autoencoder)
 - 💡 Custom styling for a modern dark-themed UI
-- 🧠 Learns hidden patterns from 2000 Spotify tracks
-- 🎛 Adjustable number of recommendations
+-  🎛 Adjustable number of recommendations
 - 📈 Embeddings visualized using cosine similarity
 - ⚡ Real-time interaction powered by Streamlit
 
@@ -62,23 +61,6 @@ A visually engaging and intelligent **Streamlit web app** that recommends songs 
 
 ---
 
-## 📦 Installation & Running Locally
-
-
-```bash
-## 1. Clone the repository
-git clone https://github.com/your-username/song-recommender.git
-cd song-recommender
-
-## 2. Install dependencies
-✅ (Optional but recommended) Create a virtual environment
-
-python -m venv venv
-
-# Activate virtual environment
-
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
 ## 📦 Install required packages
 
 pip install -r requirements.txt
@@ -88,7 +70,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
-
-## 🙋‍♀️ Contributions
-Pull requests are welcome!
-For major changes, please open an issue first to discuss what you’d like to modify or improve.
